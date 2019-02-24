@@ -14,7 +14,7 @@ btn.addEventListener("click", () =>{
 	pageCounter++;
 
 	if (pageCounter > 3){
-		btn.classList.add("hide-me");\
+		btn.classList.add("hide-me");
 	}
 });
 
